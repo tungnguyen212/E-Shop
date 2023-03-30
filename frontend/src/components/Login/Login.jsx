@@ -7,7 +7,7 @@ const Login = () => {
   const [password, setPassword] = useState('');
   const [visible, setVisible] = useState(false);
   return (
-    <div className='min-h-screen items-center bg-gray-50 flex flex-col justify-center  sm:px-6 lg:px-8 '>
+    <div className='min-h-screen items-center bg-blue-100 flex flex-col justify-center  sm:px-6 lg:px-8 '>
       <div className='sm:mx-auto sm:w-full sm:max-w-md'>
         <h2 className='mt-6 text-center text-3xl font-extrabold text-gray-900'>
           Login to your account
